@@ -2,7 +2,7 @@
 layout: post
 title: Semi-Autonomous Sub Project
 subtitle: A brief over view of a past project.
-bigimg: /img/path.jpg
+bigimg: /img/sub.jpg
 ---
 
 In college I worked on a semi-autonomous sub for my senior design project. The purpose of the project long term was to create a fully autonomous submarine that could be used by the school as a platform for robotics research. Starting with a broken sub I worked with my team to fix the mechanical issues and get semi-autonomous operation using ROS .

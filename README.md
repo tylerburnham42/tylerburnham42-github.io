@@ -1,3 +1,3 @@
-To see the active website visit [tylerburnham.com](tylerburnham.com)
+To see the active website visit [tylerburnham.com](http://tylerburnham.com).
 
-> Template by [Beautiful Jekyll](https://github.com/daattali/beautiful-jekyll) [Dean Attali](http://deanattali.com)*
+Template by [Beautiful Jekyll](https://github.com/daattali/beautiful-jekyll) [Dean Attali](http://deanattali.com)
